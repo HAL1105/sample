@@ -1,0 +1,21 @@
+h1 { text-align: center; }
+/*ul { text-align: right; }*/
+.center { text-align: center; }
+h1 { text-align: center; color: blue; }
+h2 { color: rgb(89,150,35); }
+.blue-center { text-align: center; color: #004098; }
+h1 { text-align: center; color: blue; text-decoration: line-through;}
+h2 { color: rgb(89,150,35); text-decoration: wavy underline red; }
+.blue-center { text-align: center; color: #004098; text-decoration:
+underline overline;}
+#dash { text-decoration: dashed underline orange; }
+.plain { text-decoration: none; color: black; }
+figcaption { font-weight: bold; }
+#bold900_red { font-weight: bold; color: red; }
+ol.right { text-align: right; }
+
+ul {
+ 
+ display: flex;
+ justify-content: flex-end;
+}
